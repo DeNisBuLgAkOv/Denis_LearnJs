@@ -1,3 +1,6 @@
 # Denis_LearnJs
 
-Hello world!!!
+Hello magic world!!!
+
+
+Hello!
